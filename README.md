@@ -1,4 +1,4 @@
-## Simple ecommerce cart application [![CircleCI](https://circleci.com/gh/jeffersonRibeiro/react-shopping-cart.svg?style=svg)](https://app.circleci.com/pipelines/github/SAGARGAUD01/shopping-cart)
+# E-commerce Shopping Cart Application [![CircleCI](https://circleci.com/gh/jeffersonRibeiro/react-shopping-cart.svg?style=svg)](https://app.circleci.com/pipelines/github/SAGARGAUD01/shopping-cart)
 
 <p align="center">
 
@@ -14,7 +14,6 @@
 
 [![Edit app](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/74rykw70qq)
 
-# E-commerce Shopping Cart Application
 ## Overview
 This project is an e-commerce shopping cart application built using Next.js or SvelteKit, designed to showcase the fundamental skills required for a Frontend Engineer role. The application includes a product listing page where users can browse various products and add them to a shopping cart. A dedicated cart page allows users to manage their selected products, adjust quantities, remove items, and view the total price.
 
