@@ -1,4 +1,4 @@
-# E-commerce Shopping Cart Application [![CircleCI](https://circleci.com/gh/jeffersonRibeiro/react-shopping-cart.svg?style=svg)](https://app.circleci.com/pipelines/github/SAGARGAUD01/shopping-cart)
+# E-commerce Event Mangement Application [![CircleCI](https://circleci.com/gh/jeffersonRibeiro/react-shopping-cart.svg?style=svg)](https://app.circleci.com/pipelines/github/SAGARGAUD01/shopping-cart)
 
 <p align="center">
 
